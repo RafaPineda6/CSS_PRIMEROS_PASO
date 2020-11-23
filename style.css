@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(0, 238, 255);
+}
+
+
+h2,b {
+    color: red;
+}
+
+
+
+#b {
+    font-size: 20px;
+    color: green;
+
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: black;
+    text-align: justify;
+}
+
+.center {
+    color:red;
+    text-align: center;
+}
+
+p.center{
+    text-align: center;
+    color: black;
+}
+
+p.large {
+    font-size: 200%;
+}
+
